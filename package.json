@@ -1,0 +1,23 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rollup" : "rollup --config rollup.config.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safeplace12345/-sha-dom-rock-paper-scissors.git"
+  },
+  "author": "Ghost <safeplace12345@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safeplace12345/-sha-dom-rock-paper-scissors/issues"
+  },
+  "homepage": "https://github.com/safeplace12345/-sha-dom-rock-paper-scissors#readme",
+  "dependencies": {
+    "rollup": "^2.44.0"
+  }
+}
